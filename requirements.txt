@@ -1,0 +1,9 @@
+# Direct
+Django==2.2.3
+django-createsuperuserwithpassword==1.0.0
+django-filter==2.2.0
+djangorestframework==3.10.1
+
+# Indirect
+pytz==2019.1
+sqlparse==0.3.0
